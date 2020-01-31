@@ -1,0 +1,19 @@
+{
+  "name": "node_my_notes",
+  "version": "1.0.0",
+  "description": "node js practice app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "node"
+  ],
+  "author": "Alexander Paleev <paleev045@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "yargs": "^15.1.0"
+  }
+}
